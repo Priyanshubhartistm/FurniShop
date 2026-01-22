@@ -4,8 +4,7 @@ FurniShop is a modern and responsive furniture e-commerce website built using **
 It provides a clean shopping experience with a stylish UI and smooth interactions.
 
 ## 🚀 Live Demo
-👉 https://priyanshubhartism.github.io/FurniShop
-
+👉 https://priyanshubhartistm.github.io/FurniShop/
 ---
 
 ## ✨ Features
