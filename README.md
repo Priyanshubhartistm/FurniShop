@@ -25,3 +25,15 @@ It provides a clean shopping experience with a stylish UI and smooth interaction
 ---
 
 ## 📂 Project Structure
+
+---
+
+## ⚙️ How to Run Locally
+
+Clone the repo:
+```bash
+git clone https://github.com/Priyannshubhartism/FurniShop.git
+
+## Open project folder:
+
+cd FurniShop
